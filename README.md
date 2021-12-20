@@ -8,7 +8,7 @@ Fmr Team Canada 🏊🏻‍♂️
 ## Languages
 ![python](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/python.png)
 ![spark](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/spark.png)
-![mysql](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/mysql.png)
+![sql](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/sql.png)
 ![latex](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/latex.png)
 
 ## Next languages
@@ -22,6 +22,3 @@ Fmr Team Canada 🏊🏻‍♂️
 ## Other platforms
 [![linkedin](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/linkedin.png)](https://www.linkedin.com/in/matthewackman/)
 [![overflow](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/overflow.png)](https://stackoverflow.com/users/3616732/matthew-ackman)
-
-
-
