@@ -20,7 +20,7 @@ Fmr Team Canada 🏊🏻‍♂️
 ![smith](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/smith.jpg)
 
 ## Other platforms
-[![linkedin](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/linkedin.png)](https://www.linkedin.com/in/matthewackman/)  
+[![linkedin](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/linkedin.png)](https://www.linkedin.com/in/matthewackman/)
 [![overflow](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/overflow.png)](https://stackoverflow.com/users/3616732/matthew-ackman)
 
 
