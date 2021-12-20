@@ -16,8 +16,8 @@ Fmr Team Canada 🏊🏻‍♂️
 ![julia](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/julia.png)
 
 ## Education (BA Econ, MMA)
-![uofa](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/uofa.jpg)
-![smith](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/smith.jpg)
+![uofa](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/uofa.png)
+![smith](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/smith.png)
 
 ## Other platforms
 [![linkedin](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/linkedin.png)](https://www.linkedin.com/in/matthewackman/)
