@@ -4,7 +4,7 @@ Research assistant at Bank of Canada, I use GitHub for personal projects only.
 
 
 
-Calgary, Alberta 🏔🇨
+Calgary, Alberta 🏔🇨\
 Fmr Team Canada 🏊🏻‍♂️
 
 ## Languages
