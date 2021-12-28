@@ -13,10 +13,6 @@ Fmr Team Canada 🏊🏻‍♂️
 ![sql](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/sql.png)
 ![latex](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/latex.png)
 
-## Next languages
-![js](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/js.png)
-![julia](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/julia.png)
-
 ## Education (BA Econ, MMA)
 ![uofa](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/uofa.png)
 ![smith](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/smith.png)
