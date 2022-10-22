@@ -1,11 +1,6 @@
 # Matthew Ackman
 
-Research assistant at Bank of Canada, this GitHub is for personal projects only. 
-
-I work with proprietary firm-level and consumer-level Big Data projects to yield insights into financial stability in Canada. In my spare time I'm exploring literature and case studies in ML and predictive analytics.
-
-Calgary, Alberta 🏔\
-Fmr Team Canada 🏊🏻‍♂️
+Economist at Bank of Canada, this GitHub is for personal projects only. 
 
 ## Languages
 ![python](https://github.com/MatthewAckman/MatthewAckman/blob/main/images/python.png)
